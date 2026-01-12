@@ -19,7 +19,7 @@ Feel free to explore the content that best suits your current needs. We regularl
 
 ## Need Help With Implementation?
 
-If you have questions or need personalized assistance with your automation journey, [book a free discovery call](https://amplifyautomation.ai) with no obligations. We'll help you understand your challenges and business goals so you can see a real ROI with AI.
+If you have questions or need personalized assistance with your automation journey, [book a free discovery call](https://cal.com/amplifyautomation/30min) with no obligations. We'll help you understand your challenges and business goals so you can see a real ROI with AI.
 
 ---
 
